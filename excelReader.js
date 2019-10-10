@@ -1,6 +1,6 @@
 $(document).ready(function(){
 // Get The File From The Input
-    var url = "http://localhost/Excelapi/story.xls";
+    var url = "https://github.com/bikashthapa01/excel-reader-android-app/blob/master/story.xls?raw=true";
     var toDisplay = document.getElementById('total_story');
     var toModified = document.getElementById('modified');
 
