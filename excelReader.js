@@ -1,6 +1,6 @@
 $(document).ready(function(){
 // Get The File From The Input
-    var url = "https://github.com/bikashthapa01/excel-reader-android-app/blob/master/story.xls?raw=true";
+    var url = "https://bikashthapa01.github.io/excel-reader-android-app/story.xls";
     var toDisplay = document.getElementById('total_story');
     var toModified = document.getElementById('modified');
 
